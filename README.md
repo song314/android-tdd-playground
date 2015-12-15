@@ -1,6 +1,7 @@
 android-tdd-playground
 ======================
 
+travis-ci:
 [![Build Status](https://travis-ci.org/pestrada/android-tdd-playground.png?branch=master)](https://travis-ci.org/pestrada/android-tdd-playground)
 
 Android application using TDD Tools and Continuous Integration
